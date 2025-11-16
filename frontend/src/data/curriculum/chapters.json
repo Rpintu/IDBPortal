@@ -1,0 +1,183 @@
+[
+    {
+        "id": "chapter-01",
+        "title": "Computer knowledge",
+        "description": "General introduction about computer and its parts",
+        "lessons": []
+    },
+    {
+        "id": "chapter-02",
+        "title": "Basic software introduction ",
+        "description": "Learn about the basics apps like Excel , Powerpoint, Word",
+        "lessons": []
+    },
+    {
+        "id": "chapter-03",
+        "title": "Learn typing ",
+        "description": "Learn to accelerate your typing speed, its very important skills to have when you training for software development",
+        "lessons": []
+    },
+    {
+        "id": "chapter-04",
+        "title": "Basic of Programming",
+        "description": "Learn about the programming language C++ and Java",
+        "lessons": []
+    },
+    {
+        "id": "chapter-05",
+        "title": "Web Development: HTML",
+        "description": "First step towards web development journey, learn about various tag and usage",
+        "lessons": []
+    },
+    {
+        "id": "chapter-06",
+        "title": "Web Development: CSS",
+        "description": "Second step towards web development journey, learn to style your components",
+        "lessons": []
+    },
+    {
+        "id": "chapter-07",
+        "title": "Web Development: JAVASCRIPT",
+        "description": "Final Step : Learn to make your website user interactive",
+        "lessons": []
+    },
+    {
+        "id": "chapter-08",
+        "title": "Web Development: Project",
+        "description": "Choose project based on your interest and develope and make it live so that your friends can see",
+        "lessons": []
+    },
+    {
+        "id": "chapter-101",
+        "title": "Basic Greetings & Salutations",
+        "description": "How to Introduce two people",
+        "lessons": []
+    },
+    {
+        "id": "chapter-102",
+        "title": "Learn to Wish",
+        "description": "Learn to Wish and How to Answer if somebody wishes you",
+        "lessons": []
+    },
+    {
+        "id": "chapter-103",
+        "title": "Learn about small daily used sentences",
+        "description": "We will be learning about frequently used small sentences in day to day life",
+        "lessons": []
+    },
+
+    {
+        "id": "chapter-104",
+        "title": "Personality development",
+        "description": "Learn necessary body language and discipline ",
+        "lessons": []
+    },
+    {
+        "id": "chapter-105",
+        "title": "Group Discussion ",
+        "description": "Learn to speak in front of people about topics",
+        "lessons": []
+    },
+    {
+        "id": "chapter-201",
+        "title": "Complete Syllabus of Mathematics",
+        "description": "Covering all the chapters in details from basic to advance",
+        "lessons": []
+    },
+    {
+        "id": "chapter-202",
+        "title": "Complete Syllabus of Science",
+        "description": "We will be covering all chapters with practical, so that students can visualize it and learn with great live experience ",
+        "lessons": []
+    },
+    {
+        "id": "chapter-203",
+        "title": "Complete Syllabus of English",
+        "description": "We will be covering all chapters of English",
+        "lessons": []
+    },
+    {
+        "id": "chapter-301",
+        "title": "MS - Word",
+        "description": "Create documents and question typings",
+        "lessons": []
+    },
+    {
+        "id": "chapter-302",
+        "title": "Complete Syllabus of Geography",
+        "description": "We will be covering all chapters of Geography",
+        "lessons": []
+    },
+    {
+        "id": "chapter-303",
+        "title": "Complete Syllabus of Economics",
+        "description": "We will be covering all chapters of Economics",
+        "lessons": []
+    },
+    {
+        "id": "chapter-601",
+        "title": "MS - Word",
+        "description": "Create documents and question typings",
+        "lessons": []
+    },
+    {
+        "id": "chapter-602",
+        "title": "MS - Excel",
+        "description": "We will be covering idea and shorts cuts for data entry",
+        "lessons": []
+    },
+    {
+        "id": "chapter-603",
+        "title": "MS - Powerpoint",
+        "description": "We will be covering all idea to make great presentation",
+        "lessons": []
+    },
+    {
+        "id": "chapter-604",
+        "title": "MS - Picture Manager",
+        "description": "We will be covering shorts cut for photo editor and resize",
+        "lessons": []
+    },
+    {
+        "id": "chapter-605",
+        "title": "MS - Access",
+        "description": "We will be covering all details about the database manager",
+        "lessons": []
+    },
+    {
+        "id": "chapter-701",
+        "title": "Computers Basic",
+        "description": "Cpu, mouse , MS paint , notepad, files and folders ,snipping tools ",
+        "lessons": []
+    },
+    {
+        "id": "chapter-702",
+        "title": "DCA Complete syllabus",
+        "description": "We will be covering about all MS packages",
+        "lessons": []
+    },
+    {
+        "id": "chapter-703",
+        "title": "Tally for GST",
+        "description": "We will be covering Account Basics , Accounts , Account with Inventory",
+        "lessons": []
+    },
+    {
+        "id": "chapter-801",
+        "title": "Account Basics",
+        "description": "Basics of account theory and practical ",
+        "lessons": []
+    },
+    {
+        "id": "chapter-802",
+        "title": "Account with inventory",
+        "description": "We will be covering about Inventory Management",
+        "lessons": []
+    },
+    {
+        "id": "chapter-803",
+        "title": "Account",
+        "description": "We will be covering details about Account ",
+        "lessons": []
+    }
+]
